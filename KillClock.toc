@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: KillClock
+## Notes: Estimates remaining boss fight time so you can line up Death Wish with the last 30 seconds / execute phase.
+## Author: KillClock
+## Version: 1.4
+## SavedVariables: KillClockDB
+## OptionalDeps: BigWigs
+KillClock.lua
